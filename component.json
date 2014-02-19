@@ -1,8 +1,8 @@
 {
   "name": "to-descriptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert an object to a descriptor",
-  "repo": "jonathanong/to-descriptor",
+  "repo": "component/to-descriptor",
   "license": "MIT",
   "scripts": [
     "index.js"

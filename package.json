@@ -1,10 +1,10 @@
 {
   "name": "to-descriptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert an object to a descriptor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanong/to-descriptor.git"
+    "url": "https://github.com/component/to-descriptor.git"
   },
   "author": {
     "name": "Jonathan Ong",
@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonathanong/to-descriptor/issues"
+    "url": "https://github.com/component/to-descriptor/issues"
   },
-  "homepage": "https://github.com/jonathanong/to-descriptor"
+  "homepage": "https://github.com/component/to-descriptor"
 }
